@@ -1,7 +1,7 @@
 # Python Conditional Statements: if, elif, and else
 
-## Overview
-Conditional statements in Python allow for decision-making in code execution. The `if`, `elif`, and `else` statements are used to control the flow based on conditions.
+Conditional statements in Python allow for decision-making in code execution. 
+The `if`, `elif`, and `else` statements are used to decide based on conditions.
 
 ## Syntax and Structure
 ### 1. **if Statement**

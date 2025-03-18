@@ -31,11 +31,11 @@ else:
 
 #### Example:
 ```python
-age = 18
-if age >= 18:
-    print("You are eligible to vote.")
+adult_age = 18
+if adult_age >= 18:
+    print("Adult.")
 else:
-    print("You are not eligible to vote.")
+    print("You are not an adult.")
 ```
 
 ### 3. **if-elif-else Statement**

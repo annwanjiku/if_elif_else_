@@ -63,12 +63,8 @@ else:
     print("Grade: F")
 ```
 
-## Key Points to Remember
+## Take-home📝
 - `if` statements evaluate a condition and execute the block if `True`.
 - `elif` allows multiple conditions to be checked in order.
 - `else` runs if no preceding conditions are met.
 - Indentation is crucial; Python uses indentation to define code blocks.
-
-## Conclusion
-Python’s conditional statements help control the program’s flow based on logical conditions,
-
